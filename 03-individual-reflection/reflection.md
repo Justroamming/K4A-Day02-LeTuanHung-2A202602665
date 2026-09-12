@@ -6,7 +6,7 @@
 
 - Họ và tên: Lê Tuấn Hưng
 - Mã học viên: 2A202602665
-- Nhóm: ILV
+- Nhóm: B-ILV
 - Candidate problem nhóm chọn: Customer Feedback Clustering
 
 ---

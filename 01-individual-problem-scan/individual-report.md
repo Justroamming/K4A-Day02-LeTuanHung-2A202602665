@@ -4,10 +4,10 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...):
-- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
+- Họ và tên: Lê Tuấn Hưng
+- Mã học viên: 2A202602665
+- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): sinh viên năm 3
+- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem): tìm hiểu các bài báo, viết code, tổng hợp kiến thức
 
 ---
 
